@@ -19,12 +19,12 @@
 }
 
 .deleteButton {
-    float: right;
-    padding: 12px 20px;
-    border: none;
-    color: white;
-    background-color: #f7ca18;
-    margin-top: -5px;
-    border-radius: 4px;
-    cursor: pointer;
+  float: right;
+  padding: 12px 20px;
+  border: none;
+  color: white;
+  background-color: #f7ca18;
+  margin-top: -5px;
+  border-radius: 4px;
+  cursor: pointer;
 }
